@@ -3,7 +3,9 @@ import style from ''
 
 const main = () => {
   return (
-    <div>main</div>
+    <div>main
+      <h1>Sanjarbek-1998</h1>
+    </div>
   )
 }
 
