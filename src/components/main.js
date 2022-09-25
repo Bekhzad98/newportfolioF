@@ -1,9 +1,11 @@
 import React from 'react'
-import style from ''
+
 
 const main = () => {
   return (
-    <div>main</div>
+    <div>
+      <h1>Muxammadjon</h1>
+    </div>
   )
 }
 
